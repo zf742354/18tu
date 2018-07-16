@@ -16,6 +16,10 @@
     background-color: white;
     border-radius: 500px;
 }
+.head>div>i{
+    font-size: .3rem;
+    color: #999;
+}
 .head>div>input{
     font-size: .2rem;
     color: #999;
@@ -150,6 +154,40 @@
 .tj-box2-box-btn:active{
     background-color: #cb8300;
 }
+
+
+.zr>div{
+    width: 100vw;
+    padding: .2rem;
+}
+.zr>div>p{
+    font-size: .4rem;
+    color: #e71f19;
+    font-weight: 800;
+}
+.zr-box2>div{
+    padding:.2rem;
+}
+.zr-box2>div>div{
+    height: 1.8rem;
+    width: 1.8rem;
+    background-color: black;
+}
+
+.gdfl{
+    border-radius: 500px;
+    font-size: .7rem;
+    color: white;
+    padding-left:.2rem ;
+}
+
+
+.footbox{
+    height: 1rem;
+    width: 100vw;
+    background-color: white;
+}
+
 .foot{
     width: 100vw;
     background-color: white;
@@ -160,6 +198,7 @@
     overflow: visible!important;
     padding: 0 .4rem;
 }
+
 
 .foot>div>span{
     font-size: .2rem;

@@ -2,6 +2,9 @@ $(function(){
     var mySwiper = new Swiper ('.swiper-container', {
         direction: 'horizontal',
         loop: true,
+        autoplay: {
+            delay: 3000//1秒切换一次
+        },
 
         // 如果需要分页器
         pagination: {
