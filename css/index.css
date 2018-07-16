@@ -124,16 +124,15 @@
 }
 
 .tj-box2{
-    height: 3rem;
-    background-color: pink;
+    height: 2rem;
+    background-color: #fff;
     background-image: url(../image/a.jpg);
     background-size: cover;
 }
 .tj-box2-box{
     width: 90vw;
-    height: .6rem;
+    height: .82rem;
     border-radius: 50px;
-    margin-top: 1rem;
 }
 .tj-box2-box-ipt{
     height: 100%;
