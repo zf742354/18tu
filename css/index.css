@@ -183,8 +183,8 @@
 }
 .zr-box2-btn{
     background-image: url(../image/5.png);
-    width: 1.47rem;
-    height: 1.47rem;
+    height: 80%;
+    width: 80%;
     background-size: cover;
 }
 
