@@ -1,0 +1,183 @@
+
+.head{
+    height: .88rem;
+    width: 100vw;
+    background-color: #348dcd;
+    padding: .2rem;
+}
+.head>img{
+    height: .6rem;
+    width: 2.2rem;
+
+}
+.head>div{
+    height: .6rem;
+    width: 60vw;
+    background-color: white;
+    border-radius: 500px;
+}
+.head>div>input{
+    font-size: .2rem;
+    color: #999;
+    padding-left: .4rem;
+}
+
+
+
+.swiper-container{
+    height: 5rem;
+    width: 100vw;
+}
+.banner1{
+
+    background-color: bisque;
+    background-image: url(../image/banner.jpg);
+    background-size: cover;
+}
+.banner2{
+    background-color: cadetblue;
+    background-image: url(../image/banner2.jpg);
+    background-size: cover;
+
+}
+.banner3{
+    background-color: powderblue;
+    background-image: url(../image/banner3.jpg);
+    background-size: cover;
+
+}
+.banner-b{
+    height: .2rem;
+    width: 100vw;
+    background-color: #dcdcdc;
+}
+.cd>div{
+    padding:.2rem .8rem;
+    margin: .2rem;
+}
+.cd>div>div>div{
+    height: 1.2rem;
+    width: 1.2rem;
+    border-radius: 15px;
+}
+.cd>div>div>div>i{
+    font-size: 1rem;
+    color: white;
+}
+.cd-1>div{
+    background-color:#f2921e;
+}
+.cd-2>div{
+    background-color: #e72936;
+}
+.cd-3>div{
+    background-color: #61509f;
+}
+
+.cd-4>div{
+    background-color: #3ab4e9;
+}
+
+.cd-5>div{
+    background-color: #e34180;
+}
+
+.cd-6>div{
+    background-color: #4fb889;
+}
+
+
+
+/*.icon-weibiaoti2fuzhi14{*/
+    /*background-color: orange;*/
+/*}*/
+.cd>div>div>span{
+    font-size: .2rem;
+    color: #333;
+    margin-top: .1rem;
+    font-weight: 600;
+ }
+
+
+
+.tj{
+    border-top: 1px solid #dcdcdc;
+}
+
+.tj-box{
+    padding: .2rem;
+}
+
+.tj-box-span{
+    font-size: .4rem;
+    color: black;
+    font-weight: 800;
+
+}
+.tj-box-span2{
+    font-size: .1rem;
+    color: #999999;
+}
+
+.tj-box2{
+    height: 3rem;
+    background-color: pink;
+    background-image: url(../image/a.jpg);
+    background-size: cover;
+}
+.tj-box2-box{
+    width: 90vw;
+    height: .6rem;
+    border-radius: 50px;
+    margin-top: 1rem;
+}
+.tj-box2-box-ipt{
+    height: 100%;
+    font-size: .2rem;
+    padding-left: .4rem;
+    width: 70%;
+    border-radius: 500px 0 0 500px;
+}
+
+.tj-box2-box-btn{
+    height: 100%;
+    width: 40%;
+    background-color: orange;
+    border-radius: 0 500px 500px 0;
+    font-size: .2rem;
+    color: white;
+}
+.tj-box2-box-btn:active{
+    background-color: #cb8300;
+}
+.foot{
+    width: 100vw;
+    background-color: white;
+    position: fixed;
+    bottom: 0;
+    height: 1rem;
+    border-top: 1px solid #999999;
+    overflow: visible!important;
+    padding: 0 .4rem;
+}
+
+.foot>div>span{
+    font-size: .2rem;
+    color: #999;
+}
+
+.zixun{
+    height: 1rem;
+    width: 1rem;
+    border-radius: 500px;
+    background-color: hotpink;
+    margin-top: -.4rem;
+}
+
+.icon-zixunguwen{
+    color: white;
+    margin-top: .2rem;
+}
+#zixun{
+    color: white;
+}
