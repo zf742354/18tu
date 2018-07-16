@@ -165,14 +165,34 @@
     color: #e71f19;
     font-weight: 800;
 }
+
+
 .zr-box2>div{
-    padding:.2rem;
+
 }
-.zr-box2>div>div{
-    height: 1.8rem;
-    width: 1.8rem;
-    background-color: black;
+.zr-box2>div>img{
+    height: 1.81rem;
+    width: 1.81rem;
+    margin: .23rem;
 }
+.zr-box2-gd{
+    height: 1.81rem;
+    width: 1.81rem;
+    background-color: #ebebeb;
+    margin: .23rem;
+}
+.zr-box2-btn{
+    background-image: url(../image/5.png);
+    width: 1.47rem;
+    height: 1.47rem;
+    background-size: cover;
+}
+
+.zr-box2-btn:active{
+    transform: scale(.95);
+}
+
+
 
 .gdfl{
     border-radius: 500px;
