@@ -134,6 +134,7 @@
     height: .6rem;
     border-radius: 50px;
     margin-top: 1rem;
+    box-shadow: inset 0 -3px 0 rgba(13,103,175,1);
 }
 .tj-box2-box-ipt{
     height: 100%;
@@ -146,7 +147,7 @@
 .tj-box2-box-btn{
     height: 100%;
     width: 40%;
-    background-color: orange;
+    background-color: #348dcd;
     border-radius: 0 500px 500px 0;
     font-size: .2rem;
     color: white;
